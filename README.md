@@ -1,6 +1,6 @@
 # NoteBlade 📝
 
-[![PHP Version](https://img.shields.io/badge/PHP-v5.7%2B-blue.svg)](https://www.php.net/)
+[![PHP Version](https://img.shields.io/badge/PHP-v8.2%2B-blue.svg)](https://www.php.net/)
 [![Laravel Version](https://img.shields.io/badge/Laravel-Framework-red.svg)](https://laravel.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
